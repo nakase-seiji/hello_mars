@@ -1,6 +1,7 @@
 # hello_mars
 
 hoge
+moge
 
 ## brtestブランチで行を追加したよ
 
