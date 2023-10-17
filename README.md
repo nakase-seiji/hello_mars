@@ -17,3 +17,4 @@
 
 ### リンクの例
 - [レク静](https://moodle.msys.eng.shizuoka.ac.jp/)
+ New line added by a local environment.
